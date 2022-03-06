@@ -12,7 +12,7 @@ nav ul {
   text-tranform: uppercase;
 }
 .wrapper {
-  backgropund-color:#3338d5;
+  background-color:#3338d5;
 }
 .contents,.favs,.facts,.types {
   color: 93a1a1;
@@ -36,5 +36,5 @@ ol li:last-child {
   background-color: #586e75;
 }
 .types li:nth-child(3) {
-  backgrou-color: #d04b16
+  background-color: #d04b16
 }
